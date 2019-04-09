@@ -1,4 +1,4 @@
 # hello-world
 just another repositiory
 
-hello githup, what's the fuck
+hello githup, this is a commit...
